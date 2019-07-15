@@ -1,4 +1,49 @@
-.nav-item: {
-    background-color: lightgray;
+/*
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
 }
 
+
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+    text-align: center;
+}*/
+
+.naslov {
+    font-family: monospace;
+}
+
+.navbar {
+    background: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(248, 186, 115) 35%, rgb(248, 152, 7) 100%);
+}
+
+
+
+.nav-link:hover {
+    
+    color:rgb(92, 66, 26)!important;
+    /*
+    background-color: rgb(92, 66, 26);
+    */
+}
+
+.navbar-brand > img {
+    width: 300px;
+}
+
+.carousel {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.carousel-item > img {
+    height: 700px;
+}
+
+.jumbotron {
+    background: rgb(255, 255, 255);
+}
