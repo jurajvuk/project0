@@ -8,12 +8,17 @@
     font-size: 1.4em;
 }
 
-.navbar {
-    background: linear-gradient(90deg, rgb(247, 239, 225) 0%, rgb(248, 186, 115) 35%, rgb(248, 152, 7) 100%);
+.naslovna {
+    
+    background: linear-gradient(90deg, rgb(247, 255, 239) 0%, rgb(248, 186, 115) 35%, rgb(248, 152, 7) 100%);
+    /*
+    background-color: rgb(247, 255, 239);*/
 }
 
 main {
-    background-color: rgb(247, 239, 225);
+    background-color: rgb(247, 255, 239);
+    /*
+    background-color: rgb(247, 239, 225); */
 }
 
 .content {
@@ -94,7 +99,7 @@ main {
 
 footer {
     height: 100px;
-    background: linear-gradient(90deg, rgb(247, 239, 225) 0%, rgb(248, 186, 115) 35%, rgb(248, 152, 7) 100%);
+    background: linear-gradient(90deg, rgb(247, 255, 239) 0%, rgb(248, 186, 115) 35%, rgb(248, 152, 7) 100%);
     text-align: center;
     padding-top: 35px;
 }
