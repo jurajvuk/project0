@@ -102,6 +102,9 @@ main {
         margin-right: 70px;
         margin-bottom: 30px;
     }
+    .navbar-nav {
+        position: relative;
+    }
 }
 
 .card-img-top {
