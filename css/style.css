@@ -98,8 +98,8 @@ main {
 
 @media only screen and (max-width: 767px) {
     .card {
-        margin-left: 30px;
-        margin-right: 30px;
+        margin-left: 30px!important;
+        margin-right: 30px!important;
         margin-bottom: 30px;
     }
 }
