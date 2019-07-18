@@ -1,11 +1,11 @@
 
 .naslov {
-    font-family: monospace;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .nav-link {
-    font-family: monospace;
-    font-size: 1.4em;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 1.0em;
 }
 
 .naslovna {
