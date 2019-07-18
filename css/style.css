@@ -67,6 +67,12 @@ main {
     color: black!important;
 }  
 
+.navbar-nav {
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+
 .navbar-brand > img {
     width: 300px;
 }
